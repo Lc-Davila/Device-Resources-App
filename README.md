@@ -1,6 +1,6 @@
 # DeviceResourceApp
 
-Aplicativo React Native (Expo) que solicita permissão ao usuário e acessa dois recursos nativos do dispositivo:
+Aplicativo React Native (Expo) que solicita permissão ao usuário e acessa os recursos nativos do dispositivo:
 
 - **Galeria de fotos** — seleção e exibição de imagem (`expo-image-picker`)
 - **Lista de contatos** — leitura e exibição em lista otimizada (`expo-contacts`)
