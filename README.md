@@ -17,8 +17,8 @@ Desenvolvido seguindo o guia "Manipulando galeria de imagens e contatos em React
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/jocxzs/Freqless.git
-cd Freqless/meu-app-mobile
+git clone https://github.com/Lc-Davila/Device-Resources-App)
+cd DeviceResourceApp/meu-app-mobile
 
 # 2. Instale as dependências
 npm install
